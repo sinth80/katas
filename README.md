@@ -1,2 +1,2 @@
 # katas
-All the katas ive done on codewars.com
+All the katas i've done on codewars.com
